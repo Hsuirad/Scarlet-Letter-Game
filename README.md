@@ -7,3 +7,9 @@ To run the game first install pygame:
 
 then run:
 ## python3 main.py
+
+
+![Example Image](example_images/first.png)
+![Example Image](example_images/second.png)
+![Example Image](example_images/third.png)
+![Example Image](example_images/fourth.png)
